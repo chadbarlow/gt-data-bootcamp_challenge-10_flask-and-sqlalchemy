@@ -1,4 +1,4 @@
-<h1 align="left">SQLALCHEMY<br><i>Topic: Climate Analysis</i> </h1> 
+<h1 align="left">FLASK & SQLALCHEMY<br><i>Topic: Climate Analysis</i> </h1> 
 
 <p>This project is a climate analysis and data exploration of the Honolulu, Hawaii area using Python, SQLAlchemy, and Flask. The main objective is to help with trip planning by providing insights into the climate of the area.</p>
 
